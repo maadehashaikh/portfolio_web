@@ -2,6 +2,7 @@ import SectionTitle from "@/components/section-title";
 import { useEffect, useState } from "react";
 import { motion } from "framer-motion";
 import { ArrowUpRight } from "lucide-react";
+import haseenImg from "../assets/raheilahi.png";
 
 export default function Projects() {
   const [isHovered, setIsHovered] = useState(false);
@@ -21,7 +22,7 @@ export default function Projects() {
       title: "Haseen's Offical",
       description:
         "Built a full-stack e-commerce web application using the MERN stack, featuring secure Stripe payment integration, user authentication, cart management, and an admin dashboard for product CRUD operations. Implemented file uploads using Multer and designed scalable REST APIs.",
-      image: "../assets/haseen offical.png",
+      image: haseenImg,
       align: "object-right",
       link: "https://www.linkedin.com/posts/maadeha-shaikh_mernstack-ecommercedevelopment-stripepayments-activity-7286457198799458304-C2NX?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEAcYS8BMSpeV9pRorpJfJTH1Usw6AJWn5k",
     },
