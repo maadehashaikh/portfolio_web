@@ -26,7 +26,7 @@ export default function MyExperience() {
     {
       role: "Junior Full Stack Developer",
       company: "TechFira",
-      duration: "Dec 2024 – Present",
+      duration: "October 2022 – Present",
       points: [
         "Working on full-stack web applications using the MERN stack sql as database and Next.js",
         "Developing responsive UI components and integrating RESTful APIs",
@@ -36,7 +36,7 @@ export default function MyExperience() {
     {
       role: "Full Stack Developer Intern",
       company: "Decentral Developers",
-      duration: "Sep 2024 – Nov 2024",
+      duration: "July 2022 – September 2022",
       points: [
         "Assisted in building MERN-based web applications",
         "Implemented authentication and CRUD functionality",
